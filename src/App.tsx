@@ -12,7 +12,6 @@ import {
 function App() {
   return (
     <>
-      Hello
       <Hero />
       <Companies />
       <Features />
