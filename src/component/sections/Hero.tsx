@@ -68,7 +68,7 @@ function Nav() {
 function HeroSection() {
   return (
     <>
-      <Container className="flex bg-blue-400 p-10">
+      <Container className="grid  grid-cols-2 bg-blue-400 p-10">
         <div>
           <h1>
             Enjoy Fresh Food in Your <span>Healthy Life</span>
